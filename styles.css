@@ -1,16 +1,6 @@
-
-@media screen and (max-width: 360px) {
-body { 
- width: 100%;
-}}
-@media screen and (min-width: 359px) {
-body{ 
- width: 60%;  
-}}
-
 body {
     background-color: #FAFAD2;
     font-family: Arial, Helvetica, sans-serif;
     padding: 25px;
-
+    margin-right: 10%
 }
