@@ -1,9 +1,9 @@
 
-@media screen and (max-width: 649px) {
+@media screen and (max-width: 360px) {
 body { 
  width: 100%;
 }}
-@media screen and (min-width: 650px) {
+@media screen and (min-width: 359px) {
 body{ 
  width: 60%;  
 }}
